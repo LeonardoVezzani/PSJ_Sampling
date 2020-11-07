@@ -25,11 +25,11 @@ You might have some artifacts in the interface that we hope to fix soon.
 In order to have the best performance we recommend the following *Cycles* setting:
 
     Default Setting +
-    Samples: *512*
-    Advanced>Patter: *Correlated Multi-jitter*
-    Denoising>Render: *NLM*
+    Samples: 512
+    Advanced>Patter: Correlated Multi-jitter
+    Denoising>Render: NLM
 
-We also recommend a resolution between 1920x1080px  and 2560x1440px.
+We also recommend a resolution between *1920x1080px*  and *2560x1440px*.
 
 
 **Contacts**
