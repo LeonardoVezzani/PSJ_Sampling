@@ -3,9 +3,9 @@
 ***[This Repository is a Work In Progress]***
 
 This is the implementation of the Point Spread Jitter in Blender.
-This algorithm works for Cycles but might be adapted for every raytracing engine.
+This algorithm works for Cycles but might be adapted for every ray tracing engine.
 The PSJ is used to increment optical realism in rendering, to know more about it please read the related paper.
-*We recomand to read the whole README.md before starting*
+*We recommend to read the whole README.md before starting*
 
 **How to install the PSJ**
 
@@ -14,7 +14,7 @@ To use this sampling pattern you need to build your own version of Blender (*lin
 
 *C:\blender-git\blender\intern\cycles\kernel\kernel_jitter.h*
 
-You then may procede building Blender as shown in the guide.
+You then may proceede building Blender as shown in the guide.
 Official blender guide:*https://wiki.blender.org/wiki/Building_Blender*
 
 **How to use the PSJ**
